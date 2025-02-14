@@ -1,4 +1,4 @@
-#
+#Bibliotecas
 from dispertador import Dispertador
 
 #Variaveis
