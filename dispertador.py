@@ -1,8 +1,9 @@
-
+#Bibliotecas
 import datetime
+#Classes
 class Dispertador:
-# Adicionar o self
 
+    # Adicionar o parametro self
     def __init__(self):
         self.__hora = datetime.datetime.now().hour
         self.__minuto = datetime.datetime.now().minute
