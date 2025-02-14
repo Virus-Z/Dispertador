@@ -3,6 +3,8 @@ import datetime
 #Classes
 class Dispertador:
 
+
+    #Funções do dispertador
     # Adicionar o parametro self
     def __init__(self):
         self.__hora = datetime.datetime.now().hour
