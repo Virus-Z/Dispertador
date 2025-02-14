@@ -5,7 +5,7 @@ class Dispertador:
 
 
     #Funções do dispertador
-    # Adicionar o parametro self
+    #Adicionar o parametro self
     def __init__(self):
         self.__hora = datetime.datetime.now().hour
         self.__minuto = datetime.datetime.now().minute
