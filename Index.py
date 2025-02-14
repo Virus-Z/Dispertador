@@ -1,7 +1,7 @@
 #Bibliotecas
 from dispertador import Dispertador
 
-#Variaveis
+#VARIAVEIS
 user = ""
 hora = 0
 minuto = 0
