@@ -1,1 +1,1 @@
-#Programa experimental sobre o desenvolvimento de um DISPERTADOr com funções basicas.
+#Programa experimental sobre o desenvolvimento de um despertador com funções basicas visando treinar POO em Python.
