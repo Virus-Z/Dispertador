@@ -22,7 +22,7 @@ while True:
         dispertador.ajustarHora(hora, minuto, segundo)
 
     elif user == "3":
-        print(f"Deseja ver algo separado como: hora ou segundo?")
+        print(f"Deseja ver algo separado como apenas as horas ou so os segundos?")
         print(f"Digite \n1 - hora \n2 - minuto \n3 - segundo")
         user = input("R: ")
         if user == "1":
