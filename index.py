@@ -8,7 +8,7 @@ minuto = 0
 segundo = 0
 
 #CODIGO PRINCIPAL
-print(f"Bem vindos ao meu Dispertador Pessoal ou PD")
+print(f"Bem vindos ao meu Dispertador Pessoal")
 dispertador = Dispertador()
 
 while True:
